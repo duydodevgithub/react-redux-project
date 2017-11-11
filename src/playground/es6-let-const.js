@@ -12,7 +12,7 @@ console.log("nameConst", nameConst);
 
 
 //block scoping
-var fullName = "Sora Aoi";
+var fullName = "asd sdf";
 
 if(fullName) {
     let firstName = fullName.split(" ")[0];
